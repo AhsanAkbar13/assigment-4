@@ -1,0 +1,25 @@
+https://www.angellist.com/
+
+Analytics
+Google Analytics GA4s
+
+Tag managers
+Google Tag Manager
+
+JavaScript frameworks
+React
+
+Security
+HSTS
+
+Miscellaneou
+open graph
+
+Web frameworks
+Next.js 14.2.21
+
+UI frameworks
+Radix UI
+
+
+
